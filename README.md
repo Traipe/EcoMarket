@@ -12,29 +12,8 @@ Rendimiento: Optimizar el uso del ciclo de vida de los componentes para el manej
 1. Componentes Críticos Identificados
 Para cumplir con el principio DRY (Don't Repeat Yourself), se han definido los siguientes elementos base:
 
-![alt text](image.png)
+[text](EcoMarket/src/image.png)
 
-Gemini dijo
-Este es un borrador de README.md diseñado profesionalmente para tu propuesta técnica de EcoMarket. Está estructurado para resaltar la arquitectura de software y las decisiones de diseño de manera clara y organizada.
-
-🌿 EcoMarket: Propuesta de Reestructuración de Interfaz
-Este repositorio contiene la Propuesta Técnica para la modernización y optimización de la interfaz de EcoMarket. El objetivo principal es migrar de una estructura estática a un sistema basado en componentes reutilizables bajo el ecosistema de Vue.js, garantizando escalabilidad y mantenibilidad.
-
-🚀 Objetivos de la Propuesta
-Modularización: Eliminar la duplicidad de código mediante componentes atómicos.
-
-Eficiencia: Implementar patrones de diseño como Slots y Componentes Dinámicos.
-
-Rendimiento: Optimizar el uso del ciclo de vida de los componentes para el manejo de datos.
-
-🛠️ Arquitectura de Componentes
-1. Componentes Críticos Identificados
-Para cumplir con el principio DRY (Don't Repeat Yourself), se han definido los siguientes elementos base:
-
-Componente	Descripción	Versatilidad
-ProductCard	Centraliza el diseño de precios y etiquetas eco.	Usado en Home, Categorías y Búsquedas.
-AppButton	Componente base para CTAs (llamados a la acción).	Soporta variaciones de color (Verde/Mostaza) vía props.
-EcoSearch	Encapsula la lógica compleja de filtrado.	Integrable en Header y páginas de resultados.
 2. Jerarquía y Flujo de Datos
 Se propone una estructura unidireccional para un flujo de datos predecible:
 
@@ -72,6 +51,6 @@ Escalabilidad: Facilita la adición de nuevas funcionalidades sin afectar el nú
 Colaboración: Estructura que permite el trabajo paralelo entre múltiples desarrolladores.
 
 Desarrollado por: Jimena Traipe
-![alt text](logotraipe0504.jpg)
+![alt text](EcoMarket/src/logotraipe0504.jpg)
 
 Especialidad: Front-End Application Development | Vue.js
