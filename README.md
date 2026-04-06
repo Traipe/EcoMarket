@@ -85,7 +85,7 @@ Abre un Pull Request
 ## 📄 Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Ver el archivo LICENSE para más detalles.
 
-## 👨‍💻 Créditos y Autor
+##  Créditos y Autor
 Desarrollado por: Jimena Traipe
 Especialidad: Front-End Application Development | Vue.js
 
