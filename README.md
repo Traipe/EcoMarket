@@ -74,6 +74,24 @@ La interfaz sigue una línea estética moderna y coherente:
 - Vue.js 3.x
 
 ---
+## 📝 Contribuciones
+Las contribuciones son bienvenidas. Por favor:
+
+Fork el repositorio
+Crea una rama para tu feature (git checkout -b feature/AmazingFeature)
+Commit tus cambios (git commit -m 'Add AmazingFeature')
+Push a la rama (git push origin feature/AmazingFeature)
+Abre un Pull Request
+## 📄 Licencia
+Este proyecto está licenciado bajo la Licencia MIT. Ver el archivo LICENSE para más detalles.
+
+## 👨‍💻 Créditos y Autor
+Desarrollado por: Jimena Traipe
+Especialidad: Front-End Application Development | Vue.js
+
+![Logo Traipe](EcoMarket/src/logotraipe0504.jpg)
+
+---
 
 ## 🚀 Instalación y Ejecución Local
 
@@ -92,23 +110,6 @@ npm run dev
 npm run build
 
 
-
-## 📝 Contribuciones
-Las contribuciones son bienvenidas. Por favor:
-
-Fork el repositorio
-Crea una rama para tu feature (git checkout -b feature/AmazingFeature)
-Commit tus cambios (git commit -m 'Add AmazingFeature')
-Push a la rama (git push origin feature/AmazingFeature)
-Abre un Pull Request
-## 📄 Licencia
-Este proyecto está licenciado bajo la Licencia MIT. Ver el archivo LICENSE para más detalles.
-
-## 👨‍💻 Créditos y Autor
-Desarrollado por: Jimena Traipe
-Especialidad: Front-End Application Development | Vue.js
-
-![Logo Traipe](EcoMarket/src/logotraipe0504.jpg)
 
 ## 📧 Contacto
 Para preguntas o sugerencias, no dudes en contactarme a través de GitHub Issues o abrir un Pull Request.
